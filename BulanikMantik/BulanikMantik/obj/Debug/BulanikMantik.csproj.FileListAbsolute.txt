@@ -1,0 +1,27 @@
+C:\Users\Yusuf\source\repos\BulanikMantik\BulanikMantik\bin\Debug\BulanikMantik.exe.config
+C:\Users\Yusuf\source\repos\BulanikMantik\BulanikMantik\bin\Debug\BulanikMantik.exe
+C:\Users\Yusuf\source\repos\BulanikMantik\BulanikMantik\bin\Debug\BulanikMantik.pdb
+C:\Users\Yusuf\source\repos\BulanikMantik\BulanikMantik\obj\Debug\BulanikMantik.csprojAssemblyReference.cache
+C:\Users\Yusuf\source\repos\BulanikMantik\BulanikMantik\obj\Debug\BulanikMantik.Form1.resources
+C:\Users\Yusuf\source\repos\BulanikMantik\BulanikMantik\obj\Debug\BulanikMantik.Properties.Resources.resources
+C:\Users\Yusuf\source\repos\BulanikMantik\BulanikMantik\obj\Debug\BulanikMantik.csproj.GenerateResource.cache
+C:\Users\Yusuf\source\repos\BulanikMantik\BulanikMantik\obj\Debug\BulanikMantik.exe
+C:\Users\Yusuf\source\repos\BulanikMantik\BulanikMantik\obj\Debug\BulanikMantik.pdb
+C:\Users\Yusuf\Desktop\BulanikMantik\BulanikMantik\bin\Debug\BulanikMantik.exe.config
+C:\Users\Yusuf\Desktop\BulanikMantik\BulanikMantik\bin\Debug\BulanikMantik.exe
+C:\Users\Yusuf\Desktop\BulanikMantik\BulanikMantik\bin\Debug\BulanikMantik.pdb
+C:\Users\Yusuf\Desktop\BulanikMantik\BulanikMantik\obj\Debug\BulanikMantik.csprojAssemblyReference.cache
+C:\Users\Yusuf\Desktop\BulanikMantik\BulanikMantik\obj\Debug\BulanikMantik.Form1.resources
+C:\Users\Yusuf\Desktop\BulanikMantik\BulanikMantik\obj\Debug\BulanikMantik.Properties.Resources.resources
+C:\Users\Yusuf\Desktop\BulanikMantik\BulanikMantik\obj\Debug\BulanikMantik.csproj.GenerateResource.cache
+C:\Users\Yusuf\Desktop\BulanikMantik\BulanikMantik\obj\Debug\BulanikMantik.exe
+C:\Users\Yusuf\Desktop\BulanikMantik\BulanikMantik\obj\Debug\BulanikMantik.pdb
+C:\Users\Yusuf\Desktop\Dersler\3.2\Yapay Zeka\Odevler\BulanikMantik\BulanikMantik\bin\Debug\BulanikMantik.exe.config
+C:\Users\Yusuf\Desktop\Dersler\3.2\Yapay Zeka\Odevler\BulanikMantik\BulanikMantik\bin\Debug\BulanikMantik.exe
+C:\Users\Yusuf\Desktop\Dersler\3.2\Yapay Zeka\Odevler\BulanikMantik\BulanikMantik\bin\Debug\BulanikMantik.pdb
+C:\Users\Yusuf\Desktop\Dersler\3.2\Yapay Zeka\Odevler\BulanikMantik\BulanikMantik\obj\Debug\BulanikMantik.csprojAssemblyReference.cache
+C:\Users\Yusuf\Desktop\Dersler\3.2\Yapay Zeka\Odevler\BulanikMantik\BulanikMantik\obj\Debug\BulanikMantik.Form1.resources
+C:\Users\Yusuf\Desktop\Dersler\3.2\Yapay Zeka\Odevler\BulanikMantik\BulanikMantik\obj\Debug\BulanikMantik.Properties.Resources.resources
+C:\Users\Yusuf\Desktop\Dersler\3.2\Yapay Zeka\Odevler\BulanikMantik\BulanikMantik\obj\Debug\BulanikMantik.csproj.GenerateResource.cache
+C:\Users\Yusuf\Desktop\Dersler\3.2\Yapay Zeka\Odevler\BulanikMantik\BulanikMantik\obj\Debug\BulanikMantik.exe
+C:\Users\Yusuf\Desktop\Dersler\3.2\Yapay Zeka\Odevler\BulanikMantik\BulanikMantik\obj\Debug\BulanikMantik.pdb
